@@ -1,0 +1,26 @@
+html, body {
+	height: 100%;
+	width: 100%;
+	margin: 0 auto;
+}
+
+.one {
+	height: 20%;
+	width: 100%;
+	background: #444444;
+
+}
+.two {
+	height: 70%;
+	width: 60%;
+	background: #EFEFEF;
+	margin: 0 auto;
+
+}
+.three {
+	height: 10%;
+	width: 60%;
+	background: #222222;
+	margin: 0 auto;
+
+}
