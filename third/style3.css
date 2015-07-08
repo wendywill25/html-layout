@@ -1,0 +1,63 @@
+html, body {
+	height: 100%;
+	width: 100%;
+	margin: 0;
+}
+
+.grey {
+	height: 100px;
+	width: 100%;
+	background: #D2D2D2;
+	position: absolute;
+}
+.box {
+	height: 60px;
+	width: 60px;
+	padding: 10px;
+	margin: 10px;
+	background: #3E8AE5;
+	position: absolute;
+}
+.white {
+	height: 250px;
+	width: 100%;
+	background: white;
+	color: black;
+	font-family: Helvetica, Arial, sans-serif;
+	line-height: 25px;
+	font-size: 15px;
+	text-align: left;
+	margin: 150px auto;
+	/*padding: 10px;*/
+}
+
+.blue {
+	height: 100px;
+	width: 100%;
+	background: #3E8AE5;
+	bottom: 300px;
+	position: absolute;
+
+}
+.green {
+	height: 100px;
+	width: 100%;
+	background: #00EBC5;
+	position: absolute;
+	bottom: 200px;
+}
+.brown {
+	height: 100px;
+	width: 100%;
+	background: #A3F185;
+	bottom: 100px;
+	position: absolute;
+}
+.yellow {
+	height: 100px;
+	width: 100%;
+	background: #F6EE00;
+	bottom: 0px;
+	position: absolute;
+}
+
